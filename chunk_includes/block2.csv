@@ -1,0 +1,53 @@
+Color,Proportion of Color,Quantifier,image,question,Participant1Response,Participant2Response,Did1and2Agree,attentionCheck
+Yellow,20,Few,801.png,Do you think few of the circles are yellow?,"Yes, I think few of the circles are yellow.","I agree, I think few of the circles are yellow.",Y,Y
+Yellow,20,Few,80901.png,Do you think few of the circles are yellow?,"Yes, I think few of the circles are yellow.","I agree, I think few of the circles are yellow.",Y,N
+Yellow,20,Few,801801.png,Do you think few of the circles are yellow?,"Yes, I think few of the circles are yellow.","I agree, I think few of the circles are yellow.",Y,N
+Yellow,20,Few,802701.png,Do you think few of the circles are yellow?,"Yes, I think few of the circles are yellow.","I agree, I think few of the circles are yellow.",Y,N
+Yellow,40,Few,601.png,Do you think few of the circles are yellow?,"No, I don’t think few of the circles are yellow.","I disagree, I think few of the circles are yellow.",N,N
+Yellow,40,Few,60901.png,Do you think few of the circles are yellow?,"No, I don’t think few of the circles are yellow.","I disagree, I think few of the circles are yellow.",N,N
+Yellow,40,Few,601801.png,Do you think few of the circles are yellow?,"No, I don’t think few of the circles are yellow.","I disagree, I think few of the circles are yellow.",N,Y
+Yellow,40,Few,602701.png,Do you think few of the circles are yellow?,"No, I don’t think few of the circles are yellow.","I disagree, I think few of the circles are yellow.",N,N
+Yellow,60,Few,401.jpg,Do you think few of the circles are yellow?,"No, I don’t think few of the circles are yellow.","I agree, I don’t think few of the circles are yellow.",Y,N
+Yellow,60,Few,40901.jpg,Do you think few of the circles are yellow?,"No, I don’t think few of the circles are yellow.","I agree, I don’t think few of the circles are yellow.",Y,N
+Yellow,60,Few,401801.jpg,Do you think few of the circles are yellow?,"No, I don’t think few of the circles are yellow.","I agree, I don’t think few of the circles are yellow.",Y,N
+Yellow,60,Few,402701.jpg,Do you think few of the circles are yellow?,"No, I don’t think few of the circles are yellow.","I agree, I don’t think few of the circles are yellow.",Y,N
+Blue,20,Few,202.jpg,Do you think few of the circles are blue?,"Yes, I think few of the circles are blue.","I agree, I think few of the circles are blue.",Y,N
+Blue,20,Few,20902.jpg,Do you think few of the circles are blue?,"Yes, I think few of the circles are blue.","I agree, I think few of the circles are blue.",Y,Y
+Blue,20,Few,201802.jpg,Do you think few of the circles are blue?,"Yes, I think few of the circles are blue.","I agree, I think few of the circles are blue.",Y,N
+Blue,20,Few,202702.jpg,Do you think few of the circles are blue?,"Yes, I think few of the circles are blue.","I agree, I think few of the circles are blue.",Y,N
+Blue,40,Few,402.png,Do you think few of the circles are blue?,"No, I don’t think few of the circles are blue.","I disagree, I think few of the circles are blue.",N,N
+Blue,40,Few,40902.png,Do you think few of the circles are blue?,"No, I don’t think few of the circles are blue.","I disagree, I think few of the circles are blue.",N,N
+Blue,40,Few,402702.png,Do you think few of the circles are blue?,"No, I don’t think few of the circles are blue.","I disagree, I think few of the circles are blue.",N,N
+Blue,40,Few,401802.png,Do you think few of the circles are blue?,"No, I don’t think few of the circles are blue.","I disagree, I think few of the circles are blue.",N,N
+Blue,60,Few,602.png,Do you think few of the circles are blue?,"No, I don’t think few of the circles are blue.","I agree, I don’t think few of the circles are blue.",Y,N
+Blue,60,Few,60902.png,Do you think few of the circles are blue?,"No, I don’t think few of the circles are blue.","I agree, I don’t think few of the circles are blue.",Y,N
+Blue,60,Few,601802.png,Do you think few of the circles are blue?,"No, I don’t think few of the circles are blue.","I agree, I don’t think few of the circles are blue.",Y,Y
+Blue,60,Few,602702.png,Do you think few of the circles are blue?,"No, I don’t think few of the circles are blue.","I agree, I don’t think few of the circles are blue.",Y,N
+Yellow,20,Many,803.png,Do you think many of the circles are yellow?,"No, I don’t think many of the circles are yellow.","I agree, I don't think many of the circles are yellow.",Y,N
+Yellow,20,Many,80903.png,Do you think many of the circles are yellow?,"No, I don’t think many of the circles are yellow.","I agree, I don't think many of the circles are yellow.",Y,N
+Yellow,20,Many,801803.png,Do you think many of the circles are yellow?,"No, I don’t think many of the circles are yellow.","I agree, I don't think many of the circles are yellow.",Y,N
+Yellow,20,Many,802703.png,Do you think many of the circles are yellow?,"No, I don’t think many of the circles are yellow.","I agree, I don't think many of the circles are yellow.",Y,N
+Yellow,40,Many,603.png,Do you think many of the circles are yellow?,"Yes, I think many of the circles are yellow.","I disagree, I don’t think many of the circles are yellow.",N,N
+Yellow,40,Many,60903.png,Do you think many of the circles are yellow?,"Yes, I think many of the circles are yellow.","I disagree, I don’t think many of the circles are yellow.",N,N
+Yellow,40,Many,601803.png,Do you think many of the circles are yellow?,"Yes, I think many of the circles are yellow.","I disagree, I don’t think many of the circles are yellow.",N,Y
+Yellow,40,Many,602703.png,Do you think many of the circles are yellow?,"Yes, I think many of the circles are yellow.","I disagree, I don’t think many of the circles are yellow.",N,N
+Yellow,60,Many,403.png,Do you think many of the circles are yellow?,"Yes, I think many of the circles are yellow.","I agree, I think many of the circles are yellow. ",Y,N
+Yellow,60,Many,40903.png,Do you think many of the circles are yellow?,"Yes, I think many of the circles are yellow.","I agree, I think many of the circles are yellow. ",Y,N
+Yellow,60,Many,401803.png,Do you think many of the circles are yellow?,"Yes, I think many of the circles are yellow.","I agree, I think many of the circles are yellow. ",Y,N
+Yellow,60,Many,402703.png,Do you think many of the circles are yellow?,"Yes, I think many of the circles are yellow.","I agree, I think many of the circles are yellow. ",Y,N
+Blue,20,Many,204.jpg,Do you think many of the circles are blue?,"No, I don’t think many of the circles are blue.","I agree, I don't think many of the circles are blue.",Y,N
+Blue,20,Many,20904.jpg,Do you think many of the circles are blue?,"No, I don’t think many of the circles are blue.","I agree, I don't think many of the circles are blue.",Y,N
+Blue,20,Many,201804.jpg,Do you think many of the circles are blue?,"No, I don’t think many of the circles are blue.","I agree, I don't think many of the circles are blue.",Y,N
+Blue,20,Many,202704.jpg,Do you think many of the circles are blue?,"No, I don’t think many of the circles are blue.","I agree, I don't think many of the circles are blue.",Y,N
+Blue,40,Many,404.png,Do you think many of the circles are blue?,"Yes, I think many of the circles are blue.","I disagree, I don’t think many of the circles are blue.",N,N
+Blue,40,Many,40904.png,Do you think many of the circles are blue?,"Yes, I think many of the circles are blue.","I disagree, I don’t think many of the circles are blue.",N,N
+Blue,40,Many,401804.png,Do you think many of the circles are blue?,"Yes, I think many of the circles are blue.","I disagree, I don’t think many of the circles are blue.",N,N
+Blue,40,Many,402704.png,Do you think many of the circles are blue?,"Yes, I think many of the circles are blue.","I disagree, I don’t think many of the circles are blue.",N,N
+Blue,60,Many,604.png,Do you think many of the circles are blue?,"Yes, I think many of the circles are blue.","I agree, I think many of the circles are blue. ",Y,Y
+Blue,60,Many,60904.png,Do you think many of the circles are blue?,"Yes, I think many of the circles are blue.","I agree, I think many of the circles are blue. ",Y,N
+Blue,60,Many,601804.png,Do you think many of the circles are blue?,"Yes, I think many of the circles are blue.","I agree, I think many of the circles are blue. ",Y,N
+Blue,60,Many,602704.png,Do you think many of the circles are blue?,"Yes, I think many of the circles are blue.","I agree, I think many of the circles are blue. ",Y,N
+Blue,100,All,1001803.png,Do you think all of the circles are blue?,"Yes, I think all of the circles are blue.","I agree, I think all of the circles are blue. ",Y,Y
+Yellow,100,All,1001.png,Do you think all of the circles are yellow?,"Yes, I think all of the circles are yellow.","I agree, I think all of the circles are yellow. ",Y,Y
+Yellow,0,None,1003.png,Do you think none of the circles are yellow?,"Yes, I think none of the circles are yellow.","I agree, I think none of the circles are yellow. ",Y,Y
+Blue,0,None,1002701.png,Do you think none of the circles are blue?,"Yes, I think none of the circles are blue.","I agree, I think none of the circles are blue.",Y,Y

@@ -1,0 +1,5 @@
+sentence,image,Mock1Response,Mock2Response,Did1and2Agree
+Do you think all of the circles are purple?,001.png,"No, I don’t think all of the circles are purple.","I agree, I don’t think all of the circles are purple.",Y
+Do you think all of the circles are pink?,003.png,"Yes, I think all of the circles are pink.","I disagree, I don’t think all of the circles are pink.",N
+Do you think none of the circles are pink?,00901.png,"No, I don’t think none of the circles are pink.","I agree, I don’t think none of the circles are pink.",Y
+Do you think at least one of the circles is purple?,00902.png,"Yes, I think at least one of the circles is purple.","I agree, I think at least one of the circles is purple.",Y
